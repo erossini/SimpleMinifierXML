@@ -1,1 +1,1 @@
-# SimpleMinifierXML
+# Simple XML Minifier in C#
